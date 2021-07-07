@@ -1,5 +1,9 @@
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
+
+メンバー
+真央教授エルマス
+若葉
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
